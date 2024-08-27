@@ -2,6 +2,16 @@
 
 -create-react-app
 -configured tailwind css
+-header
+-login form
+-sigin up
+- form validation 
+-useRef
+-firebase setup
+-deploying our app to production
+-create sign-up user account
+-impliment sing in user api
+-created redux store with user slice
 
 # Features 
 -login/sign up
